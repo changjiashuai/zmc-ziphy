@@ -52,7 +52,7 @@ class ziphyTests: ZiphyTestCase {
             expectation.fulfill()
         }
         
-        waitForExpectationsWithTimeout(10) { (error) in
+        waitForExpectationsWithTimeout(20) { (error) in
             
         }
     }
@@ -67,7 +67,7 @@ class ziphyTests: ZiphyTestCase {
             expectation.fulfill()
         }
         
-        waitForExpectationsWithTimeout(10) { (error) in
+        waitForExpectationsWithTimeout(20) { (error) in
             
         }
         
@@ -88,7 +88,7 @@ class ziphyTests: ZiphyTestCase {
             }
         }
         
-        waitForExpectationsWithTimeout(10) { (error) in
+        waitForExpectationsWithTimeout(20) { (error) in
             
         }
     }
@@ -109,7 +109,7 @@ class ziphyTests: ZiphyTestCase {
             }
         }
         
-        waitForExpectationsWithTimeout(10) { (error) in
+        waitForExpectationsWithTimeout(20) { (error) in
             
         }
     }
@@ -132,7 +132,7 @@ class ziphyTests: ZiphyTestCase {
             }
         }
         
-        waitForExpectationsWithTimeout(10) { (error) in
+        waitForExpectationsWithTimeout(20) { (error) in
             
         }
     }
@@ -155,7 +155,7 @@ class ziphyTests: ZiphyTestCase {
             }
         }
         
-        waitForExpectationsWithTimeout(10) { (error) in
+        waitForExpectationsWithTimeout(20) { (error) in
             
         }
         
@@ -281,7 +281,7 @@ class ziphyTests: ZiphyTestCase {
             }
         }
         
-        waitForExpectationsWithTimeout(30) { (error) in
+        waitForExpectationsWithTimeout(60) { (error) in
             
         }
     }
@@ -300,7 +300,7 @@ class ziphyTests: ZiphyTestCase {
             }
         }
         
-        waitForExpectationsWithTimeout(10) { (error) in
+        waitForExpectationsWithTimeout(20) { (error) in
             
         }
         
@@ -321,7 +321,7 @@ class ziphyTests: ZiphyTestCase {
             }
         }
         
-        waitForExpectationsWithTimeout(10) { (error) in
+        waitForExpectationsWithTimeout(20) { (error) in
             
         }
     }
@@ -338,7 +338,7 @@ class ziphyTests: ZiphyTestCase {
             }
         }
         
-        waitForExpectationsWithTimeout(10) { (error) in
+        waitForExpectationsWithTimeout(20) { (error) in
             
         }
     }
